@@ -6,7 +6,9 @@ Possuo algumas certificações Microsoft, porém já ultrapassadas como Windows 
 Atualmente estou me voltando a área de desenvolvimento.<br/>
 ### Abaixo alguma das minhas redes sociais:
 [![Streaming](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/saladinoo)
-[![Streaming](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_fequesada)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_fequesada)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://instagram.com/_fequesada](https://www.linkedin.com/in/felipe-xavier-446a1225/))
+
 
 ![Fequesada GitHub stats](https://github-readme-stats.vercel.app/api?username=fequesada&show_icons=true&theme=dracula)
 
