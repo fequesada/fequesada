@@ -1,7 +1,7 @@
 
 ### Olá! Me chamo Felipe Quesada
 
-Tenho 36 anos, trabalhei anos com tecnologia, porém na área de infraestrutura e gestão.
+Trabalhei durante anos com tecnologia, porém na área de infraestrutura e gestão.
 Possuo algumas certificações Microsoft, porém já ultrapassadas como Windows Server 2003 e 2008.
 Atualmente estou me voltando a área de desenvolvimento.<br/>
 ### Abaixo alguma das minhas redes sociais:
